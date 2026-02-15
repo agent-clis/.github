@@ -30,7 +30,7 @@ agent-clis is an open-source ecosystem of CLI tools built agent-first: structure
 | Tool | Description | Status |
 |------|-------------|--------|
 | [gripe.sh](https://github.com/agent-clis/gripe) | Structured feedback as GitHub issues from the CLI. YAML schema → interactive or automated issue creation. Agents report friction they encounter during execution without human intervention. | ![In Development](https://img.shields.io/badge/status-in%20development-yellow) |
-| [diagrams.sh](https://github.com/agent-clis/diagrams) | Architecture diagrams from YAML. CLI renders to SVG, PNG, and native PPTX. No browser, no drag-and-drop. | ![In Development](https://img.shields.io/badge/status-in%20development-yellow) |
+| [diagrams.sh](https://github.com/agent-clis/diagrams) | Architecture diagrams from YAML. CLI renders to SVG, PNG, and native PPTX. No browser, no drag-and-drop. | ![Released](https://img.shields.io/badge/status-released-brightgreen) |
 | [decks.sh](https://github.com/agent-clis/decks) | Slide decks from atomic JS snippets. Each slide is an independent file, enabling parallel generation by multiple agents with unified theming. Single binary via Bun. | ![Planned](https://img.shields.io/badge/status-planned-lightgrey) |
 | [next-on-rails](https://github.com/agent-clis/next-on-rails) | Bootstrap a fully wired Next.js project across Vercel, Clerk, Neon, and Resend. DNS, callback URLs, env vars, and domain verification from a single command. | ![Planned](https://img.shields.io/badge/status-planned-lightgrey) |
 
